@@ -29,11 +29,11 @@
         // );
 
         // Nombre de joueurs
-        $count = DB::table('Joueurs')->count();
+        //$count = DB::table('Joueurs')->count();
 
-        if ($count > 0){
-            echo "il y a des joueurs dans la BDD";
-            } 
+        //if ($count > 0){
+           // echo "il y a des joueurs dans la BDD";
+           // } 
 
         // $joueurs = DB::table('Joueurs')->whereNotNull('idJoueur')->get();
         // var_dump($joueurs);
