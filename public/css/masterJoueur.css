@@ -1,0 +1,25 @@
+body
+{
+    background-color:#102027;
+}
+
+header button
+{
+    margin-left: 70px;
+}
+
+img.logo
+{
+    margin-top: 10px;
+    margin-left: 30%;  
+    width: 700px;
+    height: 200px;
+}
+
+img.LogoMarathon
+{
+    width: 400px;
+    height: 600px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
